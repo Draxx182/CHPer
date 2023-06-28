@@ -9,3 +9,7 @@ A temporary solution for unpacking JE/LJ hact.chp
 5. Make any edits you need to do
 6. Repack hact.json by dragging and dropping onto CHPer.exe
 7. Rename 'hact new.chp' to 'hact.chp'
+
+# Talk param
+talk_param.bin ALSO needs to be edited in order for a new heat action entry to be recognized.
+Follow the same format as other entries in talk_param, update the name and bin count.
